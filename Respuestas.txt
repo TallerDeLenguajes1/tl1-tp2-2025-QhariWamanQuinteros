@@ -1,0 +1,6 @@
+##### Inciso 2, apartado f
+No puedo ver el archivo tp2_1_2.c porque en el branch principal no está creado.
+
+Noto que hay un mensaje "hacer 'push' en 1 'commits' a origin/main, en la pestaña de REPOSITORIOS.
+
+Ahora se unieron las ramas y tengo que hacer push a 3 cambios realizados.
