@@ -14,7 +14,8 @@ int main()
     for (i = 0; i < N; i++)
     {
         vt[i] = 1 + rand() % 100;
-        printf("%f    ", pvt[i]);
+        printf("%f    ", *pvt);
+        pvt++;
     }
     return 0;
 }
