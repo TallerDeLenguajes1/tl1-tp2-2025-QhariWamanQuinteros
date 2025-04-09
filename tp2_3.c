@@ -17,8 +17,7 @@ int main()
         for (j = 0; j < M; j++)
         {
             mt[i][j] = 1 + rand() % 100;
-            printf("%d   ", *pmt);
-            pmt++;
+            printf("%d   ", *pmt++); //Utiliza lo referenciado e incrementa la direccion
         }
         printf("\n");
     }
